@@ -1,6 +1,6 @@
-# PLLLM: Paper List for Large Language Model
+# New AI World's fundamental: Model, Data and Eval.
 
-![25-paper](https://img.shields.io/badge/ModelPaperNumber-25-brightgreen)
+! [25-paper](https://img.shields.io/badge/ModelPaperNumber-25-brightgreen)
 
 In this blog/repo, we collect some paper about fundational model's training methods, architecture, evaluation and training data processing, to find some key point to reproduce the more intelligent and more openful large language model!
 
@@ -14,9 +14,9 @@ In this blog/repo, we collect some paper about fundational model's training meth
 This part maintains the paper about how to train a fundational models.
 
 1. **Language Models are Few-Shot Learners** 
-   
+
    *Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah etc.*  from *Openai*  2020.15
-   
+
    [[pdf](https://arxiv.org/pdf/2005.14165.pdf)] GPT-3
 
 2. **A General Language Assistant as a Laboratory for Alignment** 
@@ -28,37 +28,37 @@ This part maintains the paper about how to train a fundational models.
 3. **Improving language models by retrieving from trillions of tokens**
 
    *Sebastian Borgeaud ,  Arthur Mensch,  Jordan Hoffmann etc.*  from *deepmind*  2021.12 
-
+   
    [[pdf](https://arxiv.org/pdf/2112.04426.pdf)]  RETRO
 
 4. **Scaling Language Models: Methods, Analysis & Insights from Training Gopher**
 
    *deepmind* 2021.12
-
+   
    [[pdf](https://arxiv.org/pdf/2112.11446.pdf)] Gopher
-
+   
 5. **JURASSIC-1: TECHNICAL DETAILS AND EVALUATION**
 
    *Opher Lieber, Or Sharir, Barak Lenz, Yoav Shoham* from *AI21 Labs* 2021
 
    [[pdf](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/61138924626a6981ee09caf6_jurassic_tech_paper.pdf)] J1-Jumbo
-
+   
 6. **LaMDA: Language Models for Dialog Applications**
 
    *google* 2022.1
-
+   
    [[pdf](https://arxiv.org/pdf/2201.08239.pdf)] LaMDA
-
+   
 7. **Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model**
 
    *Shaden Smith , Mostofa Patwary etc.* from *Microsoft and Nvidia* 2022.1
-
+   
    [[pdf](https://arxiv.org/pdf/2201.11990.pdf)] MT-NLG
-
+   
 8. **Training Compute-Optimal Large Language Models**
 
    *Jordan Hoffmann,  Sebastian Borgeaud,  Arthur Mensch etc.* from *deepmind* 2022.3
-
+   
    [[pdf](https://arxiv.org/pdf/2203.15556.pdf)] Chinchilla
 
 9. **PaLM: Scaling Language Modeling with Pathways** 
@@ -67,50 +67,50 @@ This part maintains the paper about how to train a fundational models.
 
    [[pdf](https://arxiv.org/pdf/2204.02311.pdf)] PaLM
 
-10.**GPT-NeoX-20B: An Open-Source Autoregressive Language Model**
+10. *GPT-NeoX-20B: An Open-Source Autoregressive Language Model*
 
-   *Sid Black, Stella Biderman, Eric Hallahan* in *EleutherAI* 2022.4
+    *Sid Black, Stella Biderman, Eric Hallahan* in *EleutherAI* 2022.4
 
-   [[pdf](https://arxiv.org/pdf/2204.06745.pdf)] GPT-NeoX-20B
+    [[pdf](https://arxiv.org/pdf/2204.06745.pdf)] GPT-NeoX-20B
 
 11. **SUPER-NATURALINSTRUCTIONS: Generalization via Declarative Instructions on 1600+ NLP Tasks**
 
-   *Yizhong Wang, Swaroop Mishra* in *Allen AI and Univ of Washington* 2022.4
+    *Yizhong Wang, Swaroop Mishra* in *Allen AI and Univ of Washington* 2022.4
 
-   [[pdf](https://arxiv.org/pdf/2204.07705.pdf)] Tk-INSTRUCT
+    [[pdf](https://arxiv.org/pdf/2204.07705.pdf)] Tk-INSTRUCT
 
 12. **OPT: Open Pre-trained Transformer Language Models**
 
-   *Susan Zhang, Stephen Roller, Naman Goyal* in *Meta AI* 2022.5
+    *Susan Zhang, Stephen Roller, Naman Goyal* in *Meta AI* 2022.5
 
-   [[pdf](https://arxiv.org/pdf/2205.01068.pdf)] OPT
+    [[pdf](https://arxiv.org/pdf/2205.01068.pdf)] OPT
 
 13. **Scaling Instruction-Finetuned Language Models**
 
-   *Hyung Won Chung, Le Hou, Shayne Longpre etc.* in *Google* 2022.10
+    *Hyung Won Chung, Le Hou, Shayne Longpre etc.* in *Google* 2022.10
 
-   [[pdf](https://arxiv.org/pdf/2210.11416.pdf)] Flan-T5
+    [[pdf](https://arxiv.org/pdf/2210.11416.pdf)] Flan-T5
 
 14. **LLaMA: Open and Efficient Foundation Language Models**
 
-   *Hugo Touvron, Thibaut Lavril, Gautier Izacard* in *MetaAI* 2023.2
+    *Hugo Touvron, Thibaut Lavril, Gautier Izacard* in *MetaAI* 2023.2
 
-   [[pdf](https://scontent-hkg4-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=0JlbsRuMCfYAX9WpBiC&_nc_ht=scontent-hkg4-1.xx&oh=00_AfD6f_1ziFoK1HhZiIJ3dE9ECxyipnNjguzEqAWQoVzh9g&oe=63FDD562)] LLaMA
+    [[pdf](https://scontent-hkg4-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=0JlbsRuMCfYAX9WpBiC&_nc_ht=scontent-hkg4-1.xx&oh=00_AfD6f_1ziFoK1HhZiIJ3dE9ECxyipnNjguzEqAWQoVzh9g&oe=63FDD562)] LLaMA
 
 15. **OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization**
 
-   *Srinivasan Iyer, Xi Victoria Lin, Ramakanth Pasunuru etc.* in *2022.12*
+    *Srinivasan Iyer, Xi Victoria Lin, Ramakanth Pasunuru etc.* in *2022.12*
 
-   [[pdf](https://arxiv.org/pdf/2212.12017.pdf)] OPT-IML
+    [[pdf](https://arxiv.org/pdf/2212.12017.pdf)] OPT-IML
 
 ## Pre-training Dataset
 
 1. **The Pile: An 800GB Dataset of Diverse Text for Language Modeling**
 
    *EleutherAI*
-
+   
    [[pdf](https://arxiv.org/pdf/2101.00027.pdf)]
-
+   
 2. **WuDaoCorpora: A super large-scale Chinese corpora for pre-training language models**
 
    *Beijing Academy of Artificial Intelligence, China*
@@ -131,19 +131,19 @@ This filed will contains the paper of RLHF and other possible way to achieve AIG
 1. **Training language models to follow instructions with human feedback**
 
    *Open AI* 2022.3
-
+   
    [[pdf](https://arxiv.org/pdf/2203.02155.pdf)] instruct-GPT
-
+   
 2. **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback**
 
    *Anthropic* 2022.4
-
+   
    [[pdf](https://arxiv.org/pdf/2204.05862.pdf)] 
-
+   
 3. **Training Language Models with Language Feedback**
 
    *1New York University, 2University of the Basque Country, 3Genentech, 4CIFAR LMB* 2022.4
-
+   
    [[pdf](https://arxiv.org/pdf/2204.14146.pdf)]
 
 
@@ -152,7 +152,7 @@ This filed will contains the paper of RLHF and other possible way to achieve AIG
 1. **Holistic Evaluation of Language Models**
 
    *Stanford University*
-
+   
    [[pdf](https://arxiv.org/pdf/2211.09110.pdf)]
 
 2. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**
@@ -160,7 +160,7 @@ This filed will contains the paper of RLHF and other possible way to achieve AIG
    *Centre for Artificial Intelligence Research* 
 
    [[pdf](https://arxiv.org/pdf/2302.04023.pdf)]
-
+   
 3. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective**
 
    *1Microsoft Research, 2City University of Hong Kong etc.*
@@ -172,6 +172,7 @@ This filed will contains the paper of RLHF and other possible way to achieve AIG
    *Arizona State University, Tempe.* 
 
    [[pdf](https://arxiv.org/pdf/2302.06706v1.pdf)]
+
 
 
 
