@@ -67,7 +67,7 @@ This part maintains the paper about how to train a fundational models.
 
    [[pdf](https://arxiv.org/pdf/2204.02311.pdf)] PaLM
 
-10. **GPT-NeoX-20B: An Open-Source Autoregressive Language Model**
+10.**GPT-NeoX-20B: An Open-Source Autoregressive Language Model**
 
    *Sid Black, Stella Biderman, Eric Hallahan* in *EleutherAI* 2022.4
 
