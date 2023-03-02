@@ -1,6 +1,6 @@
 # New AI World's fundamental: Model, Data and Eval.
 
-! [25-paper](https://img.shields.io/badge/ModelPaperNumber-25-brightgreen)
+![25-paper](https://img.shields.io/badge/ModelPaperNumber-25-brightgreen)
 
 In this blog/repo, we collect some paper about fundational model's training methods, architecture, evaluation and training data processing, to find some key point to reproduce the more intelligent and more openful large language model!
 
